@@ -1,0 +1,6 @@
+*.pth
+*.mp4
+__pycache__
+dat_*
+*.tif
+uc.py
